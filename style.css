@@ -1,0 +1,125 @@
+*{
+    padding: 0;
+    /* margin: 10px; */
+    box-sizing: border-box;
+}
+img{
+    width: 100vw;
+}
+h1{
+    text-align: center;
+    font-family: "Dancing Script", cursive;
+    line-height: 20vh;
+    text-shadow: 2px 2px 12px black;
+
+    
+
+}
+.h1{
+    color: blueviolet;
+    
+}
+.first{
+    color: black;
+    font-size: xx-large;
+    font-family :'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+    background-color: rgb(255, 255, 255);
+    width: 200px;
+    text-align: center;
+    margin: auto;
+    /* border-radius: 15px; */
+    padding: 10px;
+}
+.second{
+    color: black;
+    font-size: xx-large;
+    font-family :'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+    background-color: rgb(255, 255, 255);
+    width: 200px;
+    text-align: center;
+    margin: auto;
+    /* border-radius: 15px; */
+    padding: 10px;
+}
+.third{
+    color: black;
+    font-size: xx-large;
+    font-family :'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+    background-color: rgb(255, 255, 255);
+    width: 200px;
+    text-align: center;
+    margin: auto;
+    /* border-radius: 15px; */
+    padding: 10px;
+}
+
+
+/* w3 */
+ul {
+    display:flex;
+    justify-content: center;
+    list-style-type: none;
+    margin: 0;
+    padding: 10px;
+    background-color: rgb(241, 241, 241);
+  }
+  
+  
+  
+  li a {
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  li a:hover{
+    text-decoration: underline;
+  }
+  
+  .head{
+    height: 20vh;
+   
+
+  }
+
+.main{
+    /* height: 50vh; */
+    color: #0C4DA2;
+    font-size: xx-large;
+    text-align: center;
+    margin-top: 20px;
+    
+
+}
+img{
+    height: 70vh;
+}
+.mainpara{
+    font-size: large;
+    color: black;
+}
+.img1{
+    width: 100%;
+    height: 220px;
+}
+.card-text{
+    text-align: center;
+    font-size: xx-large;
+}
+.packages{
+    font-weight: bolder;
+}
+footer{
+    margin-top: 40px;
+    height: 2vh;
+    text-align: center;
+}
+.footerpara{
+    line-height: 2vh;
+}
+.col{
+    cursor: pointer;
+}
